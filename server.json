@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "DY-NB-Server"
+            "address": "https://DY-NB-Server.onrender.com"
+        }
+    ]
+}
