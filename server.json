@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "name": "MyRender",
+      "name": "DY-NB-Server",
       "address": "https://dy-nb-server.onrender.com"
     }
   ]
